@@ -2,7 +2,7 @@
     Esse arquivo exporta varios componentes de apenas um arquivo
 */
 import React from 'react';
-import {Text} from 'react-native';
+import { Text } from 'react-native';
 import Style from '../styles/default';
 
 // No import NÃO precisa colocar o mesmo nome do componente que está sendo exportado
@@ -20,4 +20,4 @@ const Comp2 = () => (
     <Text>Componente #02</Text>
 )
 
-export {Comp1, Comp2}
+export { Comp1, Comp2 }

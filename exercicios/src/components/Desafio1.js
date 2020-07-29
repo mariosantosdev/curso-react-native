@@ -8,7 +8,7 @@ import { Text } from 'react-native';
 
 import Style from '../styles/default';
 
-export default ({min, max}) => {
+export default ({ min, max }) => {
 
     function Random(min, max) {
         min = Math.ceil(min);
@@ -24,7 +24,7 @@ export default ({min, max}) => {
 
 // RESPOSTA DO DESAFIO
 
-export const Resposta = ({min, max}) => {
+export const Resposta = ({ min, max }) => {
 
     const delta = (max - min) + 1;
     const random = parseInt(Math.random() * delta) + min;
