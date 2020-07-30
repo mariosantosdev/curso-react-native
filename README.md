@@ -5,8 +5,11 @@ Criei esse repositorio para armazenar meus codigos desenvolvidos no curso de rea
 Futuramente espero poder usar esse repositorio para ajudar na minha carreira de desenvolvedor
 
 ## Modulos
-  - [Exercicios](https://github.com/nvrsantos/curso-react-native/tree/master/exercicios) - FINALIZADO | Minas Gerais, Brasil - 29/07/2020
-  -- Nesse modulo foi apresentado alguns componentes do react-native, e desenvolvido na pratica a utilização deles
+  - [Exercicios](https://github.com/nvrsantos/curso-react-native/tree/master/exercicios) - *FINALIZADO | Minas Gerais, Brasil - 29/07/2020*
+    * Nesse modulo foi apresentado alguns componentes do react-native, e desenvolvido na pratica a utilização deles
+  
+  - [Calculadora](https://github.com/nvrsantos/curso-react-native/tree/master/calculadora) - *FINALIZADO | Minas Gerais, Brazil - 29/07/2020*
+    * Nesse modulo criamos uma simples calculadora, foi feita para criarmos trabalharmos os componentes na pratica
 
 ### Tecnologias
 
