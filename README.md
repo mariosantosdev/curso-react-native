@@ -5,14 +5,17 @@ Criei esse repositorio para armazenar meus codigos desenvolvidos no curso de rea
 Futuramente espero poder usar esse repositorio para ajudar na minha carreira de desenvolvedor
 
 ## Modulos
-  - [Exercicios](https://github.com/nvrsantos/curso-react-native/tree/master/exercicios) - *FINALIZADO | Minas Gerais, Brasil - 29/07/2020*
+  - [Exercicios](https://github.com/nvrsantos/curso-react-native/tree/master/exercicios) - *FINALIZADO | Oliveira - Minas Gerais, Brasil - 29/07/2020*
     * Nesse modulo foi apresentado alguns componentes do react-native, e desenvolvido na pratica a utilização deles
   
-  - [Calculadora](https://github.com/nvrsantos/curso-react-native/tree/master/calculadora) - *FINALIZADO | Minas Gerais, Brazil - 29/07/2020*
+  - [Calculadora](https://github.com/nvrsantos/curso-react-native/tree/master/calculadora) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 29/07/2020*
     * Nesse modulo criamos uma simples calculadora, foi feita para criarmos trabalharmos os componentes na pratica
 
-  - [Campo Minado](https://github.com/nvrsantos/curso-react-native/tree/master/mines) - *FINALIZADO | Minas Gerais, Brazil - 30/07/2020*
+  - [Campo Minado](https://github.com/nvrsantos/curso-react-native/tree/master/mines) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 30/07/2020*
     * Nesse modulo foi criado um jogo de campo minado, a lógica do jogo (back-end) foi seguida do curso pois o foco não era o JS e sim o React Native, fiz algumas mudanças na estrutura da aplicação para ficar de forma legivel e bem organizado
+
+  - [Navegação](https://github.com/nvrsantos/curso-react-native/tree/master/navegacao) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 31/07/2020*
+  * Nesse modulo estudamos a navegação do react native utilizando a biblioteca react navigation, vimos a navegação do tipo Stack, Drawer e Bottom Tabs
 
 ### Tecnologias
 
