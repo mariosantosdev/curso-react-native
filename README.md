@@ -16,6 +16,9 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
 
   - [Navegação](https://github.com/nvrsantos/curso-react-native/tree/master/navegacao) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 31/07/2020*
     * Nesse modulo estudamos a navegação do react native utilizando a biblioteca react navigation, vimos a navegação do tipo Stack, Drawer e Bottom Tabs
+    
+  - [TODO Offline](https://github.com/nvrsantos/curso-react-native/tree/master/tasks) - *FINALIZAZDO | Oliveira - Minas Gerais, Brazil - 31/07/2020*
+    * Nesse modulo desenvolvemos uma aplicação de TODO List com a versão offline utilizando o AsyncStorage para armazenar as tarefas
 
 ### Tecnologias
 
