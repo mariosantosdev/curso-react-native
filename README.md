@@ -15,7 +15,7 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
     * Nesse modulo foi criado um jogo de campo minado, a lógica do jogo (back-end) foi seguida do curso pois o foco não era o JS e sim o React Native, fiz algumas mudanças na estrutura da aplicação para ficar de forma legivel e bem organizado
 
   - [Navegação](https://github.com/nvrsantos/curso-react-native/tree/master/navegacao) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 31/07/2020*
-  * Nesse modulo estudamos a navegação do react native utilizando a biblioteca react navigation, vimos a navegação do tipo Stack, Drawer e Bottom Tabs
+    * Nesse modulo estudamos a navegação do react native utilizando a biblioteca react navigation, vimos a navegação do tipo Stack, Drawer e Bottom Tabs
 
 ### Tecnologias
 
