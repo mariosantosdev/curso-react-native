@@ -21,6 +21,7 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
 
 * [React Native](https://reactnative.dev) - Usado para desenvolver aplicações mobile
 * [node.js](https://nodejs.org/en/) - Linguagem de programação
+* [React Navigation](https://reactnavigation.org) - Biblioteca para navegação de telas
 
 ### Opinião sobre o curso
 
