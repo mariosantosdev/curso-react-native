@@ -1,0 +1,2 @@
+# Backend TODO list App
+    Nesse modulo fizemos o backend do projeto todo utilizando algumas bibliotecas como express e passport o foco do curso não é express mas apesar disso foi desenvolvido um bom backend para a aplicação mobile
