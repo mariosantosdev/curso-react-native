@@ -20,11 +20,16 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
   - [TODO Offline](https://github.com/nvrsantos/curso-react-native/tree/master/tasks) - *FINALIZAZDO | Oliveira - Minas Gerais, Brazil - 31/07/2020*
     * Nesse modulo desenvolvemos uma aplicação de TODO List com a versão offline utilizando o AsyncStorage para armazenar as tarefas
 
-### Tecnologias
+  - [TODO Backend](https://github.com/nvrsantos/curso-react-native/tree/master/tasks-backend) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 03/08/2020*
+      * Nesse modulo fizemos o backend do projeto todo utilizando algumas bibliotecas como express e passport...
+
+### Principais Tecnologias
 
 * [React Native](https://reactnative.dev) - Usado para desenvolver aplicações mobile
 * [node.js](https://nodejs.org/en/) - Linguagem de programação
 * [React Navigation](https://reactnavigation.org) - Biblioteca para navegação de telas
+* [ExpressJS](https://expressjs.com/pt-br/) - Biblioteca para roteamento
+* [PassportJS](http://www.passportjs.org) - Biblioteca para autenticação
 
 ### Opinião sobre o curso
 
