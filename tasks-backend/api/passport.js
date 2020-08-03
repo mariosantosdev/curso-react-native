@@ -1,6 +1,7 @@
 const { authSecret } = require('../.env')
 const passport = require('passport')
 const { Strategy, ExtractJwt } = require('passport-jwt')
+const User = require('../model/User')
 
 module.exports = app => {
     const params = {
@@ -9,9 +10,7 @@ module.exports = app => {
     }
 
     const strategy = new Strategy(params, (payload, done) => {
-        app.db('users')
-            .where({ id: payload.id })
-            .first()
+        User.findById(payload.id)
             .then(user => {
                 if (user) {
                     done(null, { id: user.id, email: user.email })
@@ -20,6 +19,7 @@ module.exports = app => {
                 }
             })
             .catch(err => done(err, false))
+            
     })
 
     passport.use(strategy)
