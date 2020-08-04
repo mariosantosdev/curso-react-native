@@ -16,14 +16,13 @@ module.exports = app => {
 
         generateHash(req.body.password, async (hash) => {
             const password = hash
-            const email = req.body.email.toLowerCase()
 
             // Se já existir esse email cadastrado
-            await User.findOne({ email }) && res.status(400).send('Esse email já foi cadastrado')
+            await User.findOne({ email: req.body.email }) && res.status(400).send('Esse email já foi cadastrado')
 
             await new User({
                 name: req.body.name,
-                email,
+                email: req.body.email,
                 password
             }).save()
             .then(_ => res.status(204).send())
@@ -35,7 +34,7 @@ module.exports = app => {
     const signin = async (req, res) => {
         if (!req.body.email || !req.body.password) return res.status(400).send('Dados incompletos')
 
-        const user = await await User.findOne({ email: req.body.email })
+        const user = await User.findOne({ email: req.body.email })
 
         if (user) {
             bcrypt.compare(req.body.password, user.password, (err, isMatch) => {

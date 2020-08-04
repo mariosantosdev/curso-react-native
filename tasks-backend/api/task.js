@@ -3,7 +3,7 @@ const Task = require('../model/Task')
 
 module.exports = app => {
     const getItems = (req, res) => {
-        const date = req.query.date ? req.query.date : { "$lte": moment().startOf('day').toDate() }
+        const date = req.query.date ? { "$lte": moment(req.query.date).endOf('day').toDate() } : { "$lte": moment().endOf('day').toDate() }
 
         Task.find({ userId: req.user.id })
             .find({ createdAt: date })
