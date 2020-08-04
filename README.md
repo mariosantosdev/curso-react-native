@@ -22,6 +22,9 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
 
   - [TODO Backend](https://github.com/nvrsantos/curso-react-native/tree/master/tasks-backend) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 03/08/2020*
       * Nesse modulo fizemos o backend do projeto todo utilizando algumas bibliotecas como express e passport...
+      
+  - [TODO Online](https://github.com/nvrsantos/curso-react-native/tree/master/tasks-online) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 04/08/2020*
+      * Nesse modulo fizemos com que a aplicação TODO List Offline faça conexão com o backend...
 
 ### Principais Tecnologias
 
@@ -30,6 +33,7 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
 * [React Navigation](https://reactnavigation.org) - Biblioteca para navegação de telas
 * [ExpressJS](https://expressjs.com/pt-br/) - Biblioteca para roteamento
 * [PassportJS](http://www.passportjs.org) - Biblioteca para autenticação
+* [Axios](https://github.com/axios/axios) - Biblioteca para fazer requisições http/https
 
 ### Opinião sobre o curso
 
