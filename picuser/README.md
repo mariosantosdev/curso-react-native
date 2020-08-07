@@ -1,0 +1,2 @@
+# PicUser (Instagram Clone)
+Nesse modulo criamos um aplicativo com algumas funções do instagram, fiz uma UI diferente e adicionei o sitema de curtir as fotos, o modulo é um pouco desatualizado com relação ao firebase então deixei de fazer o sistema de login e storage de imagens no firebase

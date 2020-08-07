@@ -1,0 +1,8 @@
+export const USER_LOGGED = 'USER_LOGGED'
+export const USER_LOGGED_IN = 'USER_LOGGED_IN'
+export const USER_LOGGED_OUT = 'USER_LOGGED_OUT'
+export const SET_POSTS = 'SET_POSTS'
+export const ON_LOADING = 'ON_LOADING'
+export const IS_LOAD = 'IS_LOAD'
+export const GET_COMMENTS = 'GET_COMMENTS'
+export const SET_MESSAGE = 'SET_MESSAGE'
