@@ -21,10 +21,14 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
     * Nesse modulo desenvolvemos uma aplicação de TODO List com a versão offline utilizando o AsyncStorage para armazenar as tarefas
 
   - [TODO Backend](https://github.com/nvrsantos/curso-react-native/tree/master/tasks-backend) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 03/08/2020*
-      * Nesse modulo fizemos o backend do projeto todo utilizando algumas bibliotecas como express e passport...
+    * Nesse modulo fizemos o backend do projeto todo utilizando algumas bibliotecas como express e passport...
       
   - [TODO Online](https://github.com/nvrsantos/curso-react-native/tree/master/tasks-online) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 04/08/2020*
       * Nesse modulo fizemos com que a aplicação TODO List Offline faça conexão com o backend...
+      
+  - [PicUser](https://github.com/nvrsantos/curso-react-native/tree/master/picuser) - *FINALIZADO | Oliveira - Minas Gerais, Brazil - 06/08/2020*
+    * Nesse modulo criamos um aplicativo com algumas funções do instagram
+
 
 ### Principais Tecnologias
 
@@ -34,6 +38,8 @@ Futuramente espero poder usar esse repositorio para ajudar na minha carreira de 
 * [ExpressJS](https://expressjs.com/pt-br/) - Biblioteca para roteamento
 * [PassportJS](http://www.passportjs.org) - Biblioteca para autenticação
 * [Axios](https://github.com/axios/axios) - Biblioteca para fazer requisições http/https
+* [Redux](https://redux.js.org) - Biblioteca para gerenciar o estado do aplicativo.
+* [Firebase](https://firebase.google.com) - Plataforma para a criação de aplicativos móveis e da Web
 
 ### Opinião sobre o curso
 
